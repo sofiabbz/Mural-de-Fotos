@@ -12,7 +12,7 @@ const fotos = [
   {
     src: "fotos/foto2.jpg",
     titulo: "Dudu ao Vento",
-    categoria: "Natureza",
+    categoria: "Paisagem",
     descricao: "Foto tirada no carro indo para Chapada dos Veadeiros, GO. A imagem mostra meu migo lindo Dudu com o vento batendo no rosto indo comemorar seu niver.",
     data: "19 de janeiro de 2024",
     local: "Chapada dos Veadeiros, GO",
