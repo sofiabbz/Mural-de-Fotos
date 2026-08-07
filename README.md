@@ -2,7 +2,7 @@
 
 Um mural pra juntar algumas fotografias que tirei, feito em HTML, CSS e JavaScript puro — sem framework, sem build, sem dependência.
 
-🔗 **[Ver o mural](https://sofiabbz.github.io/Mural-de-Fotos/)**
+**[Ver o mural](https://sofiabbz.github.io/Mural-de-Fotos/)**
 
 ## Sobre
 
@@ -73,4 +73,4 @@ HTML5 · CSS3 (Grid e Flexbox) · JavaScript (ES6) · [Tabler Icons](https://tab
 
 ---
 
-Feito por [Sofia](https://github.com/sofiabbz) 📷
+Feito por [Sofia](https://github.com/sofiabbz) 
