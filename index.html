@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mural de Fotos</title>
+
+  <!-- Ícones Tabler -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+
+  <!-- Seu CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ─── Cabeçalho ─── -->
+  <header class="cabecalho-mural">
+    <h1 class="titulo-mural">Minhas Fotos</h1>
+    <h2 class="descricao-mural">Algumas fotos tiradas por mim</h2>
+    <span class="contador-fotos" id="contador-fotos"></span>
+  </header>
+
+  <!-- ─── Grade de fotos ─── -->
+  <main>
+    <div class="grade" id="grade"></div>
+  </main>
+
+  <!-- ─── Visualizador / Overlay ─── -->
+  <div class="visualizador" id="visualizador" role="dialog" aria-modal="true" aria-label="Visualizar foto">
+
+    <!-- Botão fechar -->
+    <button class="btn-fechar" id="btn-fechar" aria-label="Fechar">
+      <i class="ti ti-x"></i>
+    </button>
+
+    <!-- Navegação anterior -->
+    <button class="btn-nav btn-anterior" id="btn-anterior" aria-label="Foto anterior">
+      <i class="ti ti-chevron-left"></i>
+    </button>
+
+    <!-- Conteúdo do lightbox -->
+    <div class="ampliacao">
+      <div class="ampliacao-imagem">
+        <img id="foto-ampliada" src="" alt="">
+      </div>
+      <div class="ampliacao-info">
+        <span class="tag-categoria" id="tag-categoria"></span>
+        <h2 class="titulo-foto" id="titulo-foto"></h2>
+        <p class="descricao-foto" id="descricao-foto"></p>
+        <div class="metadados">
+          <div class="metadado-item">
+            <i class="ti ti-calendar" aria-hidden="true"></i>
+            <span id="meta-data"></span>
+          </div>
+          <div class="metadado-item">
+            <i class="ti ti-map-pin" aria-hidden="true"></i>
+            <span id="meta-local"></span>
+          </div>
+          <div class="metadado-item">
+            <i class="ti ti-camera" aria-hidden="true"></i>
+            <span id="meta-camera"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navegação próxima -->
+    <button class="btn-nav btn-proximo" id="btn-proximo" aria-label="Próxima foto">
+      <i class="ti ti-chevron-right"></i>
+    </button>
+
+    <!-- Indicadores (dots) -->
+    <div class="indicadores" id="indicadores"></div>
+
+  </div>
+
+  <!-- ─── Seu JS ─── -->
+  <script src="script.js"></script>
+</body>
+</html>
