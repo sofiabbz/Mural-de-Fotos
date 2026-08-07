@@ -24,7 +24,7 @@ Também foi um exercício de fazer as coisas na mão. Dava pra resolver com uma 
 Não precisa instalar nada:
 
 ```bash
-git clone https://github.com/sofiabbz/MuralFotosSopa.git
+git clone https://github.com/sofiabbz/Mural-de-Fotos.git
 ```
 
 Abra a pasta no VS Code e rode com a extensão **Live Server** (ou qualquer servidor local).
