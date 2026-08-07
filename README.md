@@ -4,8 +4,6 @@ Um mural pra juntar algumas fotografias que tirei, feito em HTML, CSS e JavaScri
 
 🔗 **[Ver o mural](https://sofiabbz.github.io/Mural-de-Fotos/)**
 
-![Print do mural](fotos/foto-01.jpg)
-
 ## Sobre
 
 Sempre gostei de tirar foto e queria um lugar meu pra colocar as fotos, em vez de deixar tudo na câmera. Aproveitei pra treinar CSS Grid de verdade, onde fiz a grade das fotos propositalmente assimétricas.
