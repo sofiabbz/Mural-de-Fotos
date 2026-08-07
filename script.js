@@ -5,7 +5,7 @@ const fotos = [
     titulo: "Homem Lacrimejando",
     categoria: "Arte",
     descricao: "Foto tirada em Brasília, DF, durante a exposição de arte. A imagem captura a emoção do momento e a profundidade da expressão humana.",
-    data: "12 de março de 2025",
+    data: "10 de janeiro de 2025",
     local: "Brasília, DF",
     camera: "Canon PowerShot SX620 HS"
   },
@@ -14,7 +14,7 @@ const fotos = [
     titulo: "Dudu ao Vento",
     categoria: "Natureza",
     descricao: "Foto tirada no carro indo para Chapada dos Veadeiros, GO. A imagem mostra meu migo lindo Dudu com o vento batendo no rosto indo comemorar seu niver.",
-    data: "3 de janeiro de 2025",
+    data: "19 de janeiro de 2024",
     local: "Chapada dos Veadeiros, GO",
     camera: "Canon EOS Rebel T6"
   },
@@ -23,7 +23,7 @@ const fotos = [
     titulo: "Cachoeira Loquinha",
     categoria: "Natureza",
     descricao: "Foto tirada na Chapada dos Veadeiros, GO. A imagem mostra um dos poços da Cachoeira Loquinha, coisa linda!",
-    data: "18 de julho de 2025",
+    data: "19 de janeiro de 2024",
     local: "Chapada dos Veadeiros, GO",
     camera: "Canon EOS Rebel T6"
   },
@@ -32,7 +32,7 @@ const fotos = [
     titulo: "Amanda Olhando o Horizonte",
     categoria: "Paisagem",
     descricao: "Foto tirada na Chapada dos Veadeiros, GO. A imagem mostra minha miga rainha Amanda olhando para o nada e pensando em tudo...",
-    data: "5 de outubro de 2025",
+    data: "20 de janeiro de 2024",
     local: "Chapada dos Veadeiros, GO",
     camera: "Canon EOS Rebel T6"
   },
@@ -41,7 +41,7 @@ const fotos = [
     titulo: "Anjos da Catedral",
     categoria: "Urbano",
     descricao: "Foto tirada em Brasília, DF. A imagem mostra os anjos da catedral pelos ares nos vitrais da igreja. ",
-    data: "22 de setembro de 2025",
+    data: "9 de abril de 2025",
     local: "Brasília, DF",
     camera: "Canon EOS Rebel T6"
   },
@@ -50,7 +50,7 @@ const fotos = [
     titulo: "Palmeiras ao Entardecer",
     categoria: "Paisagem",
     descricao: "Foto tirada em Brasília, DF. A imagem mostra uma dupla Palmeiras ao entardecer, visto da casa da minha amiga Gaby, com o sol se pondo atrás.",
-    data: "14 de abril de 2025",
+    data: "16 de agosto de 2025",
     local: "Brasília, DF",
     camera: "Canon EOS Rebel T6"
   },
@@ -59,7 +59,7 @@ const fotos = [
     titulo: "Dudu na Norte",
     categoria: "Urbano",
     descricao: "Foto tirada em Brasília, DF. A imagem mostra meu migo Dudu na Asa Norte, no parquinho de crianças.",
-    data: "7 de fevereiro de 2025",
+    data: "31 de agosto de 2025",
     local: "Brasília, DF",
     camera: "Canon EOS Rebel T6"
   },
@@ -68,7 +68,7 @@ const fotos = [
     titulo: "Véu da Noiva",
     categoria: "Natureza",
     descricao: "Foto tirada no entorno de Brasília, DF, famoso Poço Azul. A imagem mostra a cachoeira Véu da Noiva com suas águas cristalinas.",
-    data: "29 de novembro de 2025",
+    data: "3 de março de 2026",
     local: "Brasília, DF",
     camera: "Canon EOS Rebel T6",
   },
@@ -77,7 +77,7 @@ const fotos = [
     titulo: "Reflexo da Água",
     categoria: "Natureza",
     descricao: "Foto tirada no entorno de Brasília, DF. A imagem mostra o reflexo da água no Poço Azul.",
-    data: "15 de agosto de 2025",
+    data: "3 de março de 2026",
     local: "Brasília, DF",
     camera: "Canon EOS Rebel T6"
   },
@@ -86,7 +86,7 @@ const fotos = [
     titulo: "Migos no Por do Sol",
     categoria: "Paisagem",
     descricao: "Foto tirada em Brasília, DF. A imagem mostra meus migos João e Gb no por do sol no lago.",
-    data: "30 de junho de 2025",
+    data: "28 de julho de 2025",
     local: "Brasília, DF",
     camera: "iPhone 12"
   },
@@ -95,7 +95,7 @@ const fotos = [
     titulo: "Deck Fim de Tarde",
     categoria: "Paisagem",
     descricao: "Foto tirada em Brasília, DF. A imagem mostra um deck ao entardecer, com o sol quaaase se pondo atrás.",
-    data: "10 de maio de 2025",
+    data: "6 de outubro de 2024",
     local: "Brasília, DF",
     camera: "iPhone 12"
   },
@@ -104,7 +104,7 @@ const fotos = [
     titulo: "Parapente em Arraial",
     categoria: "Paisagem",
     descricao: "Foto tirada em Arraial d'Ajuda, BA. A imagem mostra um moço de parapente em voo sobre o mar.",
-    data: "15 de agosto de 2025",
+    data: "6 de dezembro de 2024",
     local: "Arraial d'Ajuda, BA",
     camera: "iPhone 12"
   }
